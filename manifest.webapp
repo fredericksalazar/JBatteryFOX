@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "name": "JBattery",
+  "description": "Controla y monitorea la batería de su dispositivo para aumentar la vida de la misma",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon16.png",
+    "48": "/img/icons/icon48.png",
+    "60": "/img/icons/icon60.png",
+    "128": "/img/icons/icon128.png"
+  },
+  "developer": {
+    "name": "NiconSystemCO",
+    "url": "http://www.niconsystem.zz.mu"
+  },
+  "type": "privileged",
+  "permissions": {
+    "desktop-notification":{
+        "description" : "Required to show notification"
+    }
+  },
+  "default_locale": "en"
+}
