@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privileged empty app
 
 This is a privileged empty app template that provides you with a barebones structure for you to build your app.
@@ -66,3 +67,7 @@ Contributions are always welcome! If you want to collaborate, whether that is wi
 * Send a pull request
 
 To make your changes as easy to merge back onto the project as possible, you should only work on one feature per branch. That makes code review simpler and faster!
+=======
+# JBatteryFOX
+JBattery para dispositivos móviles basados en FirefoxOS
+>>>>>>> 32c7d23334e4ca6bee0c699797f3a5c5fbd0b240
